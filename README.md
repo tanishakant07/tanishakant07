@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Tanisha Kant
-- 👀 I’m interested in competitive programming| Web development
+- 👋 Hi there, I’m Tanisha Kant
+- 👀 Interested in competitive programming| Web development
 - 🌱 Learning Data structures and Algorithms
-- 💞️ I’m looking to collaborate
-- 📫 Reach me at tanishakant780@gmail.com
+- 📫 Reach me out at tanishakant780@gmail.com
 
 <!---
 tanishakant07/tanishakant07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
